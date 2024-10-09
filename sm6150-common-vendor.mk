@@ -309,6 +309,9 @@ PRODUCT_PACKAGES += \
     libxml \
     libxtadapter \
     libwvdrmengine \
+    libStDrvInt \
+    libsecureui \
+    libsecureui_svcsock \
     qcrild_librilutils \
     qtibus \
     qtimutex \
