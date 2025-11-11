@@ -411,7 +411,6 @@ PRODUCT_PACKAGES += \
     irsc_util \
     loc_launcher \
     lowi-server \
-    msm_irqbalance \
     netmgrd \
     nv_mac \
     pd-mapper \
